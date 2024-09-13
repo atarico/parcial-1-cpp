@@ -1,5 +1,22 @@
 # Primer Parcial
 
+<table>
+  <tr>
+    <th>Crear Menu</th>
+    <th>Ejercicio 1</th>
+    <th>Ejercicio 2</th>
+    <th>Ejercicio 3</th>
+    <th>Total</th>
+  </tr>
+  <tr>
+    <td align="center">1</td>
+    <td align="center">3</td>
+    <td align="center">3</td>
+    <td align="center">3</td>
+    <td align="center">10</td>
+  </tr>
+</table>
+
 Este programa contiene tres ejercicios de lógica en C++ encapsulados en funciones, y un menú para elegir cuál ejecutar. A continuación, se describen los ejercicios y sus consignas.
 
 ## 1. Determinar si un año es bisiesto
